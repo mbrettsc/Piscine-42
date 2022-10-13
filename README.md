@@ -1,6 +1,7 @@
 # Piscine-42
 <div align="center"> 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/stats?cursusId=9&coalitionId=piscine" alt="mbrettsc's 42 stats" /></a>
+ </div>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/project/2672447" alt="mbrettsc's 42 C Piscine Shell 00 Score" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/project/2708307" alt="mbrettsc's 42 C Piscine Shell 01 Score" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/project/2678856" alt="mbrettsc's 42 C Piscine C 00 Score" /></a>
@@ -13,5 +14,5 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/project/2708574" alt="mbrettsc's 42 C Piscine C 07 Score" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/project/2708668" alt="mbrettsc's 42 C Piscine C 08 Score" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/project/2682581" alt="mbrettsc's 42 C Piscine Rush 00 Score" /></a>
- </div>
+
 

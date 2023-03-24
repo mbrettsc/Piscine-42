@@ -37,7 +37,7 @@ void	ft_print_comb2(void)
 			j++;
 			if (i != 98)
 			{
-				write(1, ",", 1);
+				write(1, ", ", 2);
 			}
 		}
 		i++;
